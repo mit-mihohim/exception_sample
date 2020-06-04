@@ -1,3 +1,4 @@
+# 障害後全ユーザーにチケットを10枚発行する処理
 namespace :distribute_ticket do
   desc "全ユーザーのticket_countを10増加させる"
   task execute: :environment do
