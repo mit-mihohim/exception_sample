@@ -10,6 +10,7 @@
 
 ## Usersテーブル
 |columns|type|options|
+|-------|----|-------|
 |name|string|null: false|
 |ticket_count|integer||
 
